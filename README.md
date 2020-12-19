@@ -1,7 +1,8 @@
 # DSA - Most Important Questions
-[![Language](https://img.shields.io/badge/Made_with-Java-orange.svg)](#contributors-)
-[![Updated Badge](https://badges.pufler.dev/updated/257ramanrb/dsa)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/257ramanrb/dsa)](https://badges.pufler.dev)
+[![Language](https://img.shields.io/badge/Made_with-Java-orange.svg)]()
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/257ramanrb/dsa/issues)
+[![Updated Badge](https://badges.pufler.dev/updated/257ramanrb/dsa)](#)
+[![Created Badge](https://badges.pufler.dev/created/257ramanrb/dsa)](#)
 ![](https://tokei.rs/b1/github/257ramanrb/dsa?category=code)
 ![](https://tokei.rs/b1/github/257ramanrb/dsa?category=files)
 
