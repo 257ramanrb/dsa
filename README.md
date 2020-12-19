@@ -1,4 +1,6 @@
-# DSA
+# DSA - Most Important Questions
+![](https://tokei.rs/b1/github/257ramanrb/dsa?category=code)
+![](https://tokei.rs/b1/github/257ramanrb/dsa?category=files)
 
 450 DSA questions by Love Babbar.
 
