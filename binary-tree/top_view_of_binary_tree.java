@@ -47,7 +47,7 @@ class View
         
         Map<Integer, Integer> map = new TreeMap<>();
         
-        while(queue.isEmpty())
+        while(!queue.isEmpty())
         {
             Top front = queue.remove();
             if(map.get(front.horDist) == null)
