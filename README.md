@@ -18,9 +18,10 @@ Data Structures and Algorithms are the basics of programming and candidates are 
 **Who can be benefited from it?**
 1. A fresher preparing for college placements.
 2. An experienced developer who's preparing for interviews and looking for a switch.
-3. A software developer who wants to brush up his/her coding skills.
-4. A software developer who enjoys coding and loves to solve tricky questions.
-5. A software developer doing coding as a hobby in his/her leisure time and enjoys solving DSA questions.
+3. An experienced developer who's preparing for internal interviews and preparing for promotion exams.
+4. A software developer who wants to brush up his/her coding skills.
+5. A software developer who enjoys coding and loves to solve tricky questions.
+6. A software developer doing coding as a hobby in his/her leisure time and enjoys solving DSA questions.
 
 ## List of Questions
 Find the list of questions (by Love Babar) which is being followed [here](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view).
